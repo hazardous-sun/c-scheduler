@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/c_scheduler.dir/scheduler.c.o -o c_scheduler 
