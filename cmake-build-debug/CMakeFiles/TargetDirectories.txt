@@ -1,0 +1,3 @@
+/home/solaire/CLionProjects/c-scheculer/cmake-build-debug/CMakeFiles/c_scheduler.dir
+/home/solaire/CLionProjects/c-scheculer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/solaire/CLionProjects/c-scheculer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
