@@ -18,5 +18,3 @@ PID, ARRIVAL, BURST, PRIORITY
 4,5,6,1
 
 5,3,3,2
-
-Made by: Adam Johannes
